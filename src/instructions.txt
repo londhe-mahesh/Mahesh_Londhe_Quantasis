@@ -1,0 +1,10 @@
+1. Api's are called against db.json which need to add to json server,
+steps to install json server:
+   1.npm install -g json-server
+   2.Go to the db.json directory and in cmd hit command json-server --watch db.json
+   This will start the json server.
+    
+2. modules to install
+   1. react-router-dom
+   2. axios
+   3. react-data-table-component

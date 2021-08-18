@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "userName": "mahesh",
+      "userEmail": "M@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 1
+    },
+    {
+      "userName": "mahesh",
+      "userEmail": "a@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 2
+    },
+    {
+      "userName": "mahesh",
+      "userEmail": "a@gmail.com",
+      "userContact": "9029796420",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 3
+    },
+    {
+      "userName": "Tejas",
+      "userEmail": "a@gmail.com",
+      "userContact": "9029796420",
+      "gender": "male",
+      "userPassword": "iuyjh",
+      "id": 4
+    },
+    {
+      "userName": "Niranjan",
+      "userEmail": "N@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 5
+    },
+    {
+      "userName": "Ashwini",
+      "userEmail": "ash@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 6
+    },
+    {
+      "userName": "Raj",
+      "userEmail": "raj@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 7
+    },
+    {
+      "userName": "Niranjan",
+      "userEmail": "ash@gmail.com",
+      "userContact": "9029796420",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 8
+    },
+    {
+      "userName": "Rupesh",
+      "userEmail": "r@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 9
+    },
+    {
+      "userName": "Rahul",
+      "userEmail": "rb@gmail.com",
+      "userContact": "9029796423",
+      "gender": "male",
+      "userPassword": "1234",
+      "id": 10
+    }
+  ]
+}

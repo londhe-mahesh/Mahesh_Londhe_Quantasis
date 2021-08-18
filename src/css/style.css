@@ -1,0 +1,92 @@
+.top-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 30px 0 20px 0;
+}
+.top-section h2{
+    margin: 0;
+}
+.form-wrapper{
+    width: 60%;
+    margin: 22px auto;
+    max-width: 320px;
+}
+.inner-wrapper{
+    padding: 20px;
+    background-color: #F5F7FB;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 5%);
+    border: 1px solid rgba(0, 40, 100, 0.12);
+}
+.inner-wrapper h3{
+    margin-top: 5px;
+}
+.form-wrapper form{
+    margin: 0 auto;
+}
+.form-wrapper .form-field input{
+    width: 90%;
+    max-width: 265px;
+    padding: 5px;
+}
+.form-field{
+    margin-bottom: 5px;
+}
+.form-label{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+}
+.submit-btn{
+    width: 100%;
+    max-width: 265px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+
+button{
+    cursor: pointer;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 700;
+    background-color: #000000;
+    border-radius: 5px;
+}
+button.register-btn{
+    padding: 6px 10px;
+    margin-right: 13px;
+}
+button.login-btn{
+    padding: 6px 19px;
+}
+button.home-btn{
+    padding: 6px 19px;
+    margin-left: 13px;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.register-success{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.radio-wrapper{
+  width: 55%;
+  display: flex;
+  justify-content: space-around;
+}
+.form-field .radio-unit input{
+    width: 20px
+}
+.error p{
+    font-size: 15px;
+    color: red;
+    margin: 0;
+}
